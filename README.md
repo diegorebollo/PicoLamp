@@ -3,7 +3,7 @@
 
 
 # PicoLamp
-PicoLamp allows to control a led strip addressable using touch controls and MQTT protocol for Home Assistant integration.
+PicoLamp allows to control a led strip addressable using touch controls and Home Assistant using MQTT.
 
 ----
 <div align="left">
